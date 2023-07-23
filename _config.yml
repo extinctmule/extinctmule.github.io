@@ -9,12 +9,12 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              https://extinctmule.github.io
-baseurl:          '/exitnctmule.github.io'
+url:              "https://extinctmule.github.io"
+baseurl:          ""
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: extinctmule/extinctmule.github.io
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
